@@ -169,8 +169,8 @@ export default function Contact() {
       </AddressItem>
       <AddressItem>
         <Icon src={Send} />
-        <Text>contact@lama.dev</Text>
-        <Text>sales@lama.dev</Text>
+        <Text>contact@animate.agency</Text>
+        <Text>sales@animate.agency</Text>
       </AddressItem>
     </AddressContainer>
   </Wrapper>
